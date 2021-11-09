@@ -1,2 +1,2 @@
-# findme
-online directoy
+# Findme
+Online  Business Directory
